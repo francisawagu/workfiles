@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customerAccount>
+	<accountName>Matlab1</accountName>
+	<accountNumber>CA1002394</accountNumber>
+	<confidentialInd>false</confidentialInd>	
+	<businessCustomer>
+		<assignments>
+			<createdAt>2020-11-02T20:17:25.793+03:00</createdAt>
+			<toLocationId>QAG</toLocationId>
+		</assignments>
+<customerNumber>04123657</customerNumber>
+		<extension>
+			<accountManager>
+				<queueName>Sales Support Queue</queueName>
+				<type>QUEUE</type>
+				<version>0</version>
+			</accountManager>
+			<eSignedDocs>ECONSENTAGREEMENT_V1</eSignedDocs>
+			<electronicSSAFiling>true</electronicSSAFiling>
+			<mailCardsTo>GROUP</mailCardsTo>
+			<mailW2To>INDIVIDUAL</mailW2To>
+			<salesforceID>Account100061</salesforceID>
+			<salesforceUpdate>2020-11-02T20:24:48.197+03:00</salesforceUpdate>
+		</extension>
+
+
+		<owner>
+			<type>INTERNAL</type>
+			<userId>11633849</userId>
+			<version>0</version>
+		</owner>	  
+	  
+		<rating>HOT</rating>
+		<source>OTHER</source>
+		<description>Software development and outsourcing</description>
+		<details>
+			<communicationInfo>
+				<addressInfos>
+					<address>
+						<addressLine1>219 Campus Drive</addressLine1>
+						<addressLine2/>
+						<addressLine3/>
+						<city>Dickinson</city>
+						<countryCd>US</countryCd>
+						<county/>
+						<postalCode>58601</postalCode>
+						<stateProvCd>ND</stateProvCd>
+					</address>
+					<addressTypeCd>legal</addressTypeCd>
+				</addressInfos>
+
+				<emails>
+					<contactAdditionalFields/>
+					<type>COM</type>
+					<emailId>mail@matplotlib.org</emailId>
+				</emails>
+
+				<preferredContactMethod>MAIL</preferredContactMethod>
+			</communicationInfo>
+			<taxExemptInd>true</taxExemptInd>
+			<businessType>CRPR</businessType>
+			<dateStarted>1998-03-11T00:00:00+03:00</dateStarted>
+			<legalId>11-2233445</legalId>
+			<legalName>Matplotlib</legalName>
+			<numberOfContinuous>22</numberOfContinuous>
+			<sicCode>0279</sicCode>
+			<sicDivision>A</sicDivision>
+			<sicIndustry>02</sicIndustry>
+		</details>
+		<groupSponsorInd>true</groupSponsorInd>
+		<numberOfEmployees>20</numberOfEmployees>
+	</businessCustomer>
+	<specialHandlingInd>NO</specialHandlingInd>
+	<version>0</version>
+</customerAccount>
